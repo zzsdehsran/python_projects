@@ -7,7 +7,7 @@ for ip in ips:
     hosts = {
     'hostname': ip,
     'username': 'python',
-    'password': 'Bosum@2025',
+    'password': 'xxxxxxx',
     }
     try:
         print(f"正在连接{ip}。。。")
