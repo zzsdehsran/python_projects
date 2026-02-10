@@ -8,7 +8,7 @@
 
 ## 环境准备
 - Python 3.13
-- 依赖库：`pip install -r requirements.txt`（如果有）
+- 依赖库：`pip install -r requirements.txt`
 
 ## 使用方法
 1. 确保你已经在虚拟环境中。
